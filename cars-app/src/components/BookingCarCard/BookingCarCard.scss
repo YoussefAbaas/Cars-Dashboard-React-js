@@ -1,0 +1,31 @@
+.booking .cars
+{
+    height:80%;
+}
+.booking .car_card
+{
+    width: 325px;
+    height: auto;
+}
+.booking .heart_icon
+{
+    cursor:pointer;
+}
+.booking .car_card h3
+{
+    font-size: 18px;
+}
+.booking .car_card p
+{
+    font-size: 16px;
+    color:#72767C;
+}
+.booking .car_card .heart_icon
+{
+    width:20px;
+    height:17.82px;
+}
+.booking .car_card img
+{
+    object-fit: contain;
+}

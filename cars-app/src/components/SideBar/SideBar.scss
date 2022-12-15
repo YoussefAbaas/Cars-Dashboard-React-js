@@ -1,0 +1,35 @@
+.side-bar{
+    width:248px;
+    position: fixed;
+    top:0;
+    left:0;
+    padding:30px 24px 30px 24px;
+    height: 100vh;
+}
+.side-bar .header_name
+{
+    display: inline-flex;
+    justify-content: start;
+    align-items: center;
+}
+.side-bar h1
+{
+    display:inline-block;
+    margin-right:250px;
+    margin-left:5px;
+    font-size: 30px;
+}
+.side-bar .logo
+{
+    color:white;
+    background-color: purple;
+    margin-left:5px;
+    padding:6px;
+    width: 30px;
+    height: 30px;
+    margin-top:0;
+}
+.side-list i,.side-list img,.side-list svg,.side-list a,.side-list button
+{
+    color:#76727c;
+}

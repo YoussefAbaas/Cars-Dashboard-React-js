@@ -1,0 +1,30 @@
+main{
+    display: flex;
+    margin-top: 10px;
+    overflow: hidden;
+    height: 970px;
+}
+.booking
+{
+    height:1024px;
+    margin:0;
+    margin-left: 278px;
+    width:1091px;
+    background-color: #F5F5F5;
+}
+.booking h2
+{
+    font-size: 30px;
+}
+.booking #droplists button
+{
+    color:#5F6165;
+    font-size: 16px;
+}
+.booking #filter-grid,#filter-spin{
+    width:44px;
+    height:44px;
+    border:1px solid transparent;
+    border-radius: 50%;
+    background-color: white;
+}
